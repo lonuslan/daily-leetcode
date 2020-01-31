@@ -1,4 +1,4 @@
-package com.lonuslan.daily_leetcode.chapter1;
+package com.lonuslan.dailyleetcode.chapter1;
 
 import org.junit.Test;
 

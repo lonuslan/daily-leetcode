@@ -1,4 +1,4 @@
-package com.lonuslan.daily_leetcode.entity;
+package com.lonuslan.dailyleetcode.entity;
 
 /**
  * @author ：lonus_lan

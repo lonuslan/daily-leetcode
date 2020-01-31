@@ -1,6 +1,6 @@
-package com.lonuslan.daily_leetcode.chapter1;
+package com.lonuslan.dailyleetcode.chapter1;
 
-import com.lonuslan.daily_leetcode.entity.ListNode;
+import com.lonuslan.dailyleetcode.entity.ListNode;
 
 /**
  * @author ：lonus_lan
