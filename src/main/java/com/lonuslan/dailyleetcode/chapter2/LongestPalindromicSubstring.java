@@ -150,7 +150,7 @@ public class LongestPalindromicSubstring {
      * @return
      */
     public static String longestPalindrome_approach_4(String s) {
-        // TODO the answer is wrong acroding to the leetcode submit.
+        // TODO the answer is wrong accroding to the leetcode submit.
         // TODO exam
         if (s == null){
             throw new IllegalArgumentException("Illegel input parameters");
