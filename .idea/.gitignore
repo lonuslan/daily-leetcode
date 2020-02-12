@@ -1,4 +1,5 @@
 # Default ignored files
-/workspace.xml
-/target
-/.idea/*.xml
+../directoryList.md
+../target
+../.idea
+../bash.exe.stackdump
