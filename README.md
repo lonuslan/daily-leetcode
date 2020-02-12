@@ -112,3 +112,14 @@ Method plus (functionName_approach_number) is a better optimal or the best optim
 
 eg :
 **chapter1** stands for the **January** 
+
+## change
+I'm going to change my strategy from easy to hard
+
+date: 2020-2-5 14 : 32
+
+So I'm going to change my directory structure.
+
+The package ``easy`` stands for the easy problems.
+
+and so on;
