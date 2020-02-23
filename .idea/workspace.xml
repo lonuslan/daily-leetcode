@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64027a52-5483-4a54-abe8-2846c093c468" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/lonuslan/dailyleetcode/chapter2/chapter2easy/RomanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lonuslan/dailyleetcode/chapter2/chapter2easy/RomanToInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/lonuslan/dailyleetcode/chapter2/IntegerToRoman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lonuslan/dailyleetcode/chapter2/IntegerToRoman.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -79,6 +81,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.lonuslan.dailyleetcode.chapter2.chapter2medium" />
+      <recent name="com.lonuslan.dailyleetcode.chapter2.chapter2easy" />
       <recent name="com.lonuslan.dailyleetcode.chapter2" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -97,82 +101,82 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.IntegerToRomanTest.intToRoman_approach_3">
-    <configuration name="ContainerWithMostWaterTest.maxArea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.LetterCombinationsOfAPhoneNumberTest.letterCombinations">
+    <configuration name="LetterCombinationsOfAPhoneNumberTest.letterCombinations" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="daily-leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lonuslan.dailyleetcode.chapter2.*" />
+          <option name="PATTERN" value="com.lonuslan.dailyleetcode.chapter2.chapter2medium.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.lonuslan.dailyleetcode.chapter2" />
-      <option name="MAIN_CLASS_NAME" value="com.lonuslan.dailyleetcode.chapter2.ContainerWithMostWaterTest" />
-      <option name="METHOD_NAME" value="maxArea" />
+      <option name="PACKAGE_NAME" value="com.lonuslan.dailyleetcode.chapter2.chapter2medium" />
+      <option name="MAIN_CLASS_NAME" value="com.lonuslan.dailyleetcode.chapter2.chapter2medium.LetterCombinationsOfAPhoneNumberTest" />
+      <option name="METHOD_NAME" value="letterCombinations" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContainerWithMostWaterTest.maxArea_approach_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestCommonPrefixTest.longestCommonPrefix_approach_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="daily-leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lonuslan.dailyleetcode.chapter2.*" />
+          <option name="PATTERN" value="com.lonuslan.dailyleetcode.chapter2.chapter2easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.lonuslan.dailyleetcode.chapter2" />
-      <option name="MAIN_CLASS_NAME" value="com.lonuslan.dailyleetcode.chapter2.ContainerWithMostWaterTest" />
-      <option name="METHOD_NAME" value="maxArea_approach_2" />
+      <option name="PACKAGE_NAME" value="com.lonuslan.dailyleetcode.chapter2.chapter2easy" />
+      <option name="MAIN_CLASS_NAME" value="com.lonuslan.dailyleetcode.chapter2.chapter2easy.LongestCommonPrefixTest" />
+      <option name="METHOD_NAME" value="longestCommonPrefix_approach_2" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerToRomanTest.intToRoman" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestCommonPrefixTest.longestCommonPrefix_approach_3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="daily-leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lonuslan.dailyleetcode.chapter2.*" />
+          <option name="PATTERN" value="com.lonuslan.dailyleetcode.chapter2.chapter2easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.lonuslan.dailyleetcode.chapter2" />
-      <option name="MAIN_CLASS_NAME" value="com.lonuslan.dailyleetcode.chapter2.IntegerToRomanTest" />
-      <option name="METHOD_NAME" value="intToRoman" />
+      <option name="PACKAGE_NAME" value="com.lonuslan.dailyleetcode.chapter2.chapter2easy" />
+      <option name="MAIN_CLASS_NAME" value="com.lonuslan.dailyleetcode.chapter2.chapter2easy.LongestCommonPrefixTest" />
+      <option name="METHOD_NAME" value="longestCommonPrefix_approach_3" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerToRomanTest.intToRoman_approach_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="LongestCommonPrefixTest.longestCommonPrefix_approach_4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="daily-leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lonuslan.dailyleetcode.chapter2.*" />
+          <option name="PATTERN" value="com.lonuslan.dailyleetcode.chapter2.chapter2easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.lonuslan.dailyleetcode.chapter2" />
-      <option name="MAIN_CLASS_NAME" value="com.lonuslan.dailyleetcode.chapter2.IntegerToRomanTest" />
-      <option name="METHOD_NAME" value="intToRoman_approach_2" />
+      <option name="PACKAGE_NAME" value="com.lonuslan.dailyleetcode.chapter2.chapter2easy" />
+      <option name="MAIN_CLASS_NAME" value="com.lonuslan.dailyleetcode.chapter2.chapter2easy.LongestCommonPrefixTest" />
+      <option name="METHOD_NAME" value="longestCommonPrefix_approach_4" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerToRomanTest.intToRoman_approach_3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ValidParenthesesTest.isValid" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="daily-leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lonuslan.dailyleetcode.chapter2.*" />
+          <option name="PATTERN" value="com.lonuslan.dailyleetcode.chapter2.chapter2easy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.lonuslan.dailyleetcode.chapter2" />
-      <option name="MAIN_CLASS_NAME" value="com.lonuslan.dailyleetcode.chapter2.IntegerToRomanTest" />
-      <option name="METHOD_NAME" value="intToRoman_approach_3" />
+      <option name="PACKAGE_NAME" value="com.lonuslan.dailyleetcode.chapter2.chapter2easy" />
+      <option name="MAIN_CLASS_NAME" value="com.lonuslan.dailyleetcode.chapter2.chapter2easy.ValidParenthesesTest" />
+      <option name="METHOD_NAME" value="isValid" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -220,11 +224,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.IntegerToRomanTest.intToRoman_approach_3" />
-        <item itemvalue="JUnit.IntegerToRomanTest.intToRoman_approach_2" />
-        <item itemvalue="JUnit.IntegerToRomanTest.intToRoman" />
-        <item itemvalue="JUnit.ContainerWithMostWaterTest.maxArea_approach_2" />
-        <item itemvalue="JUnit.ContainerWithMostWaterTest.maxArea" />
+        <item itemvalue="JUnit.LetterCombinationsOfAPhoneNumberTest.letterCombinations" />
+        <item itemvalue="JUnit.ValidParenthesesTest.isValid" />
+        <item itemvalue="JUnit.LongestCommonPrefixTest.longestCommonPrefix_approach_4" />
+        <item itemvalue="JUnit.LongestCommonPrefixTest.longestCommonPrefix_approach_3" />
+        <item itemvalue="JUnit.LongestCommonPrefixTest.longestCommonPrefix_approach_2" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +255,9 @@
       <workItem from="1580874855753" duration="12000" />
       <workItem from="1580884209574" duration="4663000" />
       <workItem from="1580976714523" duration="22000" />
-      <workItem from="1581477216909" duration="5465000" />
+      <workItem from="1581477216909" duration="5553000" />
+      <workItem from="1582463445851" duration="41000" />
+      <workItem from="1582463514019" duration="3733000" />
     </task>
     <task id="LOCAL-00001" summary="2020-1-30 16：08 the fist day commit_1 two question">
       <created>1580371810954</created>
