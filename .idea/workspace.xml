@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="64027a52-5483-4a54-abe8-2846c093c468" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/lonuslan/dailyleetcode/chapter2/chapter2easy/RomanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/lonuslan/dailyleetcode/chapter2/chapter2easy/RomanToInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/lonuslan/dailyleetcode/chapter2/IntegerToRoman.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/lonuslan/dailyleetcode/chapter2/IntegerToRoman.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,6 +86,9 @@
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="I:\idea_project\daily-leetcode" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -257,7 +259,8 @@
       <workItem from="1580976714523" duration="22000" />
       <workItem from="1581477216909" duration="5553000" />
       <workItem from="1582463445851" duration="41000" />
-      <workItem from="1582463514019" duration="3733000" />
+      <workItem from="1582463514019" duration="4072000" />
+      <workItem from="1582467698346" duration="97000" />
     </task>
     <task id="LOCAL-00001" summary="2020-1-30 16：08 the fist day commit_1 two question">
       <created>1580371810954</created>
