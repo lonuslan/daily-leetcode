@@ -16,19 +16,6 @@ Method plus (functionName_approach_number) is a better optimal or the best optim
 **project menu** **:**
 ```$xslt
 
-|-- undefined
-    |-- bash.exe.stackdump
-    |-- pom.xml
-    |-- README.md
-    |-- .idea
-    |   |-- $PRODUCT_WORKSPACE_FILE$
-    |   |-- .gitignore
-    |   |-- compiler.xml
-    |   |-- misc.xml
-    |   |-- vcs.xml
-    |   |-- workspace.xml
-    |   |-- inspectionProfiles
-    |       |-- Project_Default.xml
     |-- src
     |   |-- main
     |   |   |-- java
@@ -41,10 +28,31 @@ Method plus (functionName_approach_number) is a better optimal or the best optim
     |   |   |               |   |-- MedianOfTwoSortedArrays.java
     |   |   |               |   |-- TwoSum.java
     |   |   |               |-- chapter2
+    |   |   |               |   |-- ContainerWithMostWater.java
+    |   |   |               |   |-- IntegerToRoman.java
     |   |   |               |   |-- LongestPalindromicSubstring.java
+    |   |   |               |   |-- PalindromeNumber.java
+    |   |   |               |   |-- RegularExpressionMatching.java
+    |   |   |               |   |-- ReverseInteger.java
+    |   |   |               |   |-- StringToIntegerAtoi.java
     |   |   |               |   |-- ZigzagConversion.java
+    |   |   |               |   |-- chapter2easy
+    |   |   |               |   |   |-- LongestCommonPrefix.java
+    |   |   |               |   |   |-- RomanToInteger.java
+    |   |   |               |   |   |-- ValidParentheses.java
+    |   |   |               |   |-- chapter2hard
+    |   |   |               |   |-- chapter2medium
+    |   |   |               |       |-- LetterCombinationsOfAPhoneNumber.java
+    |   |   |               |-- chapter3
+    |   |   |               |   |-- class1.java
+    |   |   |               |   |-- chapter3easy
+    |   |   |               |   |   |-- ImplementStrstr.java
+    |   |   |               |   |-- chapter3hard
+    |   |   |               |   |-- chapter3medium
+    |   |   |               |       |-- DivideTwoIntegers.java
     |   |   |               |-- entity
     |   |   |               |   |-- ListNode.java
+    |   |   |               |   |-- Result.java
     |   |   |               |-- template
     |   |   |               |   |-- TemplateProblemDescription.java
     |   |   |               |-- utils
@@ -61,46 +69,25 @@ Method plus (functionName_approach_number) is a better optimal or the best optim
     |                       |   |-- MedianOfTwoSortedArraysTest.java
     |                       |   |-- TwoSumTest.java
     |                       |-- chapter2
-    |                           |-- LongestPalindromicSunstringTest.java
-    |                           |-- ZigzagConversionTest.java
-    |-- target
-        |-- classes
-        |   |-- properties.yml
-        |   |-- com
-        |   |   |-- lonuslan
-        |   |       |-- dailyleetcode
-        |   |           |-- chapter1
-        |   |           |   |-- AddTwoNumbers.class
-        |   |           |   |-- LongestSubstringWithoutRepeatingCharacters.class
-        |   |           |   |-- MedianOfTwoSortedArrays.class
-        |   |           |   |-- TwoSum.class
-        |   |           |-- chapter2
-        |   |           |   |-- LongestPalindromicSubstring.class
-        |   |           |   |-- ZigzagConversion.class
-        |   |           |-- entity
-        |   |           |   |-- ListNode.class
-        |   |           |-- template
-        |   |               |-- TemplateProblemDescription.class
-        |   |-- META-INF
-        |       |-- daily-leetcode.kotlin_module
-        |-- generated-sources
-        |   |-- annotations
-        |-- generated-test-sources
-        |   |-- test-annotations
-        |-- test-classes
-            |-- com
-            |   |-- lonuslan
-            |       |-- dailyleetcode
-            |           |-- chapter1
-            |           |   |-- AddTNTest.class
-            |           |   |-- LongestSubWithoutRepCharTest.class
-            |           |   |-- MedianOfTwoSortedArraysTest.class
-            |           |   |-- TwoSumTest.class
-            |           |-- chapter2
-            |               |-- LongestPalindromicSunstringTest.class
-            |               |-- ZigzagConversionTest.class
-            |-- META-INF
-                |-- daily-leetcode.kotlin_module
+    |                       |   |-- ContainerWithMostWaterTest.java
+    |                       |   |-- IntegerToRomanTest.java
+    |                       |   |-- LongestPalindromicSunstringTest.java
+    |                       |   |-- PalindromeNumberTest.java
+    |                       |   |-- RegularExpressionMatchingTest.java
+    |                       |   |-- ReverseIntegerTest.java
+    |                       |   |-- StringToIntegerAtoiTest.java
+    |                       |   |-- ZigzagConversionTest.java
+    |                       |   |-- chapter2easy
+    |                       |   |   |-- LongestCommonPrefixTest.java
+    |                       |   |   |-- RomanToIntegerTest.java
+    |                       |   |   |-- ValidParenthesesTest.java
+    |                       |   |-- chapter2medium
+    |                       |       |-- LetterCombinationsOfAPhoneNumberTest.java
+    |                       |-- chapter3
+    |                           |-- chapter3easy
+    |                           |   |-- ImplementStrstrTest.java
+    |                           |-- chapter3medium
+    |                               |-- DivideTwoIntegersTest.java
 
 ```
 
